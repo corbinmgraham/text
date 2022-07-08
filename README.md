@@ -3,6 +3,15 @@ Do more with Text.
 
 ### About
 
+Unleash the world of Text.
+
+Message anyone, on, or off the grid,  
+Hear your messages out-loud,  
+Set yourself apart with a custom name
+and message signature.
+
+### Details
+
 The latest addition to the Text Batch family,
 Text. adds new functionality and integration to
 what Text Batch wished to accomplish.
@@ -14,8 +23,6 @@ them to the next level.**
 3. Free use of Text Network, a global network.
 
 And there's more.
-
-### Details
 
 A new architecture allows the program to be more flexible.
 - Scalability
