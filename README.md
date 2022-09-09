@@ -22,6 +22,17 @@ them to the next level.**
 2. Adjust User Profile
 3. Free use of Text Network, a global network.
 
+**Further Details**
+- C# / C++
+- Closed Network Messaging
+- Open Network Messaging
+- Encrypted Messaging
+- Text Editor
+- Text-to-Speech Generator
+- Multi-User Support
+- Dynamic Interface
+- Custom Framework
+
 And there's more.
 
 A new architecture allows the program to be more flexible.
